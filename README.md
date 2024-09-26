@@ -60,25 +60,25 @@ Puedes calcular la distancia, la velocidad o el tiempo, ingresando los valores r
 
 #### Interfaz de Selección de Fórmulas
 
-![Selección de fórmulas](./capturas/menu.png)
+![Selección de fórmulas](./captures/menu.png)
 
 #### Cálculo en MRU
 
 En esta sección, puedes seleccionar qué dato deseas calcular en el MRU (distancia, velocidad o tiempo).
 
-![Selección de dato MRU](./capturas/MRU.png)
+![Selección de dato MRU](./captures/MRU.png)
 
 #### Llenado de Datos en MRU
 
 Introduce los datos requeridos para hacer el cálculo.
 
-![Llenado de datos en MRU](./capturas/MRU_distancia.png)
+![Llenado de datos en MRU](./captures/MRU_distancia.png)
 
 #### Resultado del Cálculo MRU
 
 Aquí se muestra el resultado del cálculo.
 
-![Resultado del cálculo en MRU](./capturas/MRU_resultado.png)
+![Resultado del cálculo en MRU](./captures/MRU_resultado.png)
 
 ### Movimiento Rectilíneo Uniformemente Variado (MRUV)
 
@@ -92,19 +92,19 @@ El MRUV incluye aceleración constante, y la fórmula usada es:
 
 Selecciona el dato a calcular (distancia, tiempo o aceleración).
 
-![Selección de dato MRUV](./capturas/2_sel.png)
+![Selección de dato MRUV](./captures/2_sel.png)
 
 #### Llenado de Datos en MRUV
 
 Introduce los valores necesarios para realizar el cálculo.
 
-![Llenado de datos en MRUV](./capturas/2_comp.png)
+![Llenado de datos en MRUV](./captures/2_comp.png)
 
 #### Resultado del Cálculo MRUV
 
 El resultado del cálculo se presenta de forma clara.
 
-![Resultado del cálculo en MRUV](./capturas/2_result.png)
+![Resultado del cálculo en MRUV](./captures/2_result.png)
 
 ### Velocidad Final (MRUV)
 
@@ -118,19 +118,19 @@ V_f = V_i + α * Δt
 
 Selecciona qué dato deseas calcular en la fórmula de velocidad final (velocidad inicial, final o aceleración).
 
-![Selección del dato para velocidad final](./capturas/3_sel.png)
+![Selección del dato para velocidad final](./captures/3_sel.png)
 
 #### Llenado de Datos para Velocidad Final
 
 Introduce los datos necesarios para hacer el cálculo.
 
-![Llenado de datos para velocidad final](./capturas/3_comp.png)
+![Llenado de datos para velocidad final](./captures/3_comp.png)
 
 #### Resultado del Cálculo para Velocidad Final
 
 El resultado del cálculo se muestra en pantalla.
 
-![Resultado del cálculo para velocidad final](./capturas/3_result.png)
+![Resultado del cálculo para velocidad final](./captures/3_result.png)
 
 ### Manejo de Errores
 
@@ -142,15 +142,15 @@ El sistema implementa un control de excepciones que maneja:
 
 Si dejas algún campo sin completar, el sistema te avisará con un mensaje de error.
 
-![Error por campos vacíos](./capturas/err_campo_vacio.png)
-![Error por campos vacíos](./capturas/err_campo_vacio_2.png)
+![Error por campos vacíos](./captures/err_campo_vacio.png)
+![Error por campos vacíos](./captures/err_campo_vacio_2.png)
 
 #### Error por División Entre Cero
 
 En caso de que se intente dividir entre cero, aparecerá un mensaje de error.
 
-![Error por división entre cero](./capturas/err_sobre0.png)
-![Error por división entre cero](./capturas/err_sobre0_2.png)
+![Error por división entre cero](./captures/err_sobre0.png)
+![Error por división entre cero](./captures/err_sobre0_2.png)
 
 ## Referencias
 
