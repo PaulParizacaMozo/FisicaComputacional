@@ -18,9 +18,9 @@ El método de integración por Monte Carlo es una técnica numérica que utiliza
 
 Matemáticamente, para una integral definida \(I = \int_a^b f(x) dx\), el método Monte Carlo aproxima su valor como:
 
-\[
-I \approx \frac{b-a}{N} \sum_{i=1}^N f(x_i)
-\]
+
+$I \approx \frac{b-a}{N} \sum_{i=1}^N f(x_i)$
+
 
 donde \(x_i\) son puntos generados aleatoriamente en el intervalo \([a, b]\). La precisión del método mejora con \(N\), y su error estándar es proporcional a \(N^{-1/2}\), independientemente de la dimensionalidad del problema.
 
