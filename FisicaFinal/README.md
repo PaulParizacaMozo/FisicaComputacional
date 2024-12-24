@@ -76,7 +76,7 @@ En el caso de 120 kVp, se observa un ajuste preciso entre el modelo matemático 
 
 #### Espectro de Energía para 80 kVp
 
-![Espectro de Energía para 80 kVp](img/spectro80.png)
+![Espectro de Energía para 80 kVp](img/espectro80.png)
 
 El espectro reconstruido para 80 kVp refleja las características esperadas de los haces de rayos X en este rango energético.
 
